@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.post {font-size: 24px; color: #333; display: flex;}
+.line {height: 2px; background: #000;}
+.title {font-size: 14px; color: #333; display: flex;}
+.input {width: 640px; height: 44px; background-color: #fff; padding: 0 11px 1px 15px;
+border: 1px solid rgb(221, 221, 221);}
+.content {border: 1px solid rgb(221, 221, 221); width: 662px; height: 500px; padding: 10px 0 0 15px;}
+.reg_btn {width: 160px; height: 56px; background-color: #5f0080; color: #fff; border: none; cursor: pointer;}
+.re_btn {width: 160px; height: 56px; background-color: #fff; color: #5f0080; border: 1px solid #5f0080; cursor: pointer;}
+.li_btn {width: 160px; height: 56px; background-color: #5f0080; color: #fff; border: none; cursor: pointer;}
+.highlight {color: #ee6a7b; font-size: 14px; display: inline;}

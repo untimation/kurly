@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+#wrap {width: 90%; margin: 0 auto;}
+.wrap_text {color: #333; font-size: 24px; display: flex; justify-content: flex-start;}
+.line {height: 2px; background: rgb(0, 0, 0); margin: 0px;}
+.line1 {margin: 0px;}
+.table_title {margin-bottom: 10px; display: flex; justify-content: space-around; color: #333; font-size: 14px;}
+.list {width: 100% !important;}
+.list {width: 80%; border-collapse: collapse; font-size: 12px; line-height: 24px;}
+.record {display: flex; justify-content: space-around; width: 600px; border-bottom: 1px solid #d3d3d3;
+padding: 20px 0 20px 20px; color: #4c4c4c; font-size: 14px;}
+
+      
+.list > th {background: yellowgreen;}
+.list > img {width: 220px; height: 300px;}
+.lists {font-size: 22px; font-weight: 600;}
+.a {text-decoration: none; color: black; display: flex; justify-content: flex-end;}
+.wri_btn {background-color: #5f0080; color: #fff; border: none; width: 150px; height: 42px; cursor: pointer; margin-top: 20px; float: right;}
+.hide_btn {background-color: #5f0080; color: #fff; border: none; width: 150px; height: 42px; cursor: pointer; float: right; margin-top: -50px; z-index: 3; position: relative;}

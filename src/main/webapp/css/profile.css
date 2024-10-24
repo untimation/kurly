@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+.profile {width: 1050px; height: 1468px; background-color: rgb(242, 245, 248); 
+display: flex; justify-content: center; padding-top: 50px;}
+.L_pro {width: 375px; height: 1338px; background-color: yellowgreen; 
+margin-right: 10px; border-radius: 16px; overflow: hidden;}
+.L_pro_1 {width: 375px; height: 235px; background-color: orange; margin-bottom: 8px;}
+.L_pro_2 {width: 375px; height: 294px; background-color: tomato;}
+.L_pro_3 {width: 375px; height: 73px; background-color: tomato;}
+.L_pro_4 {width: 375px; height: 728px; background-color: tomato;}
+
+.R_pro {width: 650px; height: 871px; background-color: yellowgreen; 
+border-radius: 16px; overflow: hidden;}
+.R_pro_1 {width: 610px; height: 75px; background-color: greenyellow;}
+
+.R_pro_2 {width: 650; height: 796px; background-color: greenyellow;
+margin-left: 20px;}
+.R_pro_2-1 {width: 650px; height: 80px; background-color: lightgreen; 
+margin-bottom: 10px; border-radius: 0 0 16px 16px;}
+.R_pro_2-2 {width: 650px; height: 700px; background-color: lightgreen;
+border-radius: 16px 16px 0 0px;}

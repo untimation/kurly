@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+
+.signup {display: block; margin-top: 100px;}
+.form {display: block; text-align: center; margin: 0 auto; width: 340px; height: 295.94px;}
+.id_bar {border: 1px solid rgb(221, 221, 221); border-radius: 4px; font-size: 16px; width: 328px; height: 54px; outline: none; padding: 0 10px 1px 10px; margin-bottom: 5px;}
+.login_table {margin: 0 auto;}
+.find > a {text-decoration: none; font-size: 13px; color: #333; float: right; margin: 0 3px 0 3px;}
+.login_btn {background-color: #5f0080; color: #fff; width: 350px; height: 54px; padding: 0 10px; text-align: center; border-radius: 3px; border: 0 none; font-size: 16px; font-weight: 500; cursor: pointer;}
+.join_btn {background-color: #fff; color: #5f0080; width: 350px; height: 54px; padding: 0 10px; text-align: center; border-radius: 3px; border: 1px solid #5f0080; font-size: 16px; font-weight: 500; margin-top: 7px; cursor: pointer;}
+
+
+h2 {font-size: 24px; font-weight: 700; text-align: center; color: #333;}
